@@ -1,6 +1,6 @@
 # Operadores de Bit Java
 ---
-title: Operadores de Bit Java
+Operadores de Bit Java
 ---
 
 Otros de los operadores que nos ofrece el lenguaje [Java][Medium] son los **operadores de bit**. Estos nos permiten manejar números binarios. Los número binarios podremos operarlos de dos formas. Por un lado de forma que el cálculo se haga bit a bit, bien sea realizando operaciones de AND, OR,... Y por otro desplazamiento de bits.
